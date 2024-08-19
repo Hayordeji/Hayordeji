@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Hayordeji
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me :Whatsapp +2347086460094
+- 👋 Hi, I’m @Hayordeji and welcome to my profile
+- 📫 You can reach me on Whatsapp via this number : +2347086460094
 
