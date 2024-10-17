@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an Event and Ticket Management System<br>👯 I’m looking to collaborate on Startup projects.<br>🌱 I’m currently learning .NET <br>⚡ Fun fact : I am left handed and left footed
+🔭 I’m currently working on an Event and Ticket Management System<br>👯 I’m looking to collaborate on any project.<br>🌱 I’m currently learning .NET <br>⚡ Fun fact : I am left handed and left footed
 
 
 ## 🌐 Socials:
