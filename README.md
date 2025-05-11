@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on an Event and Ticket Management System<br>👯 I’m looking to collaborate on any project.<br>🌱 I’m currently learning .NET <br>⚡ Fun fact : I am left handed and left footed
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Háyordeji Shoga) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_amhayordeji) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ayodeji Shoga) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AyodejiShoga) 
 
